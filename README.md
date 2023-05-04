@@ -11,7 +11,7 @@ This project is a C++ data structure implementation for managing a hospital elev
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/hospital-elevator-system.git`
-2. Navigate to the project directory: `cd hospital-elevator-system`
-3. Compile the source code: `g++ main.cpp -o elevator`
-4. Run the program: `./elevator`
+1. Clone the repository
+2. Navigate to the project directory
+3. Compile the source code
+4. Run the program
